@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+*.log
+db.sqlite3
+/media
+/staticfiles
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# Migrations (optional, if you don’t want to track them initially)
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
