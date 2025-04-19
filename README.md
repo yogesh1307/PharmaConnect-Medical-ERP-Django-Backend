@@ -15,7 +15,3 @@
 <a href="https://github.com/yogesh1307/PharmaConnect-Medical-ERP-System">PharmaConnect Medical ERP system Client Side in React JS</a>
 
 
-<br>
-
-## How Django and React Works.
-<img src="https://github.com/yogesh1307/PharmaConnect-Medical-ERP-System/blob/master/django-react.png"><br>
